@@ -2,34 +2,39 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'The Hogwarts',
+    title: 'For Traders',
+    subtitle: 'Take advantage of optimal swap rates, minimal slippage and concentrated liquidity as the Smart Order Router seeks to find traders the most optimal price.',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'The Upside Down',
+    title: 'For Investors',
+    subtitle: 'Flip traditional finance on its head with customisable crypto index  funds; eliminate the middleman and earn yield on your portfolio.',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Kadirojo Permai',
+    title: 'Weighted Pools',
+    subtitle: 'Highly versatile and configurable weighted pools. These are ideal for general use-cases. They also enable users to build pools with different token weightings, such as 80/20, 33/33/33 or 50/50',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Paradise Island',
+    title: 'Custom Pools',
+    subtitle: 'Users can create custom pools with any tokens and weights they choose. Furthermore, creators of custom pools can set a custom fee within the available range.',
   },
   {
     id: 'world-5',
     imgUrl: '/planet-05.png',
-    title: 'Hawkins Labs',
+    title: 'Smart Order Router',
+    subtitle: 'The AraraSwap Smart Order Router calculates the most efficient path and always offers the best possible prices. This is done by breaking up and spreading a trade through all the relevant Wavelength Pools, therefore ensuring optimal usage of the available liquidity.',
   },
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Use the official Chain Bridge to securely transfer your Bitcoin (BTC) to the Merlin Chain.',
+  'Choose the liquidity pools you wish to participate in and deposit your assets.',
+  'Engage in farming activities to earn rewards. Once you have accumulated enough, claim your profits.',
 ];
 
 export const newFeatures = [
@@ -50,39 +55,27 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'Introducing — AraraSwap',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
-  },
-  {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
-    subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
-  },
-  {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
-    subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
-  },
+        'Introducing AraraSwap, the cutting-edge Decentralized Exchange (DEX) on the Merlin Blockchain. As a state-of-the-art Automated Market Maker (AMM), AraraSwap is built on the Balancer V2 framework to become the leading liquidity hub for DeFi on Merlin.',
+    link: 'https://medium.com/@AraraSwap/introducing-araraswap-c4756e28286a'
+  }
 ];
 
 export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    link: 'https://x.com/AraraSwap',
   },
   {
-    name: 'linkedin',
-    url: '/linkedin.svg',
+    name: 'discord',
+    url: '/discord.svg',
+    link: 'https://discord.gg/ytePhjKqtj',
   },
   {
-    name: 'instagram',
-    url: '/instagram.svg',
-  },
-  {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: 'medium',
+    url: '/medium.svg',
+    link: 'https://medium.com/@AraraSwap',
   },
 ];
