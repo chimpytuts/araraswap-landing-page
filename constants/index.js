@@ -32,7 +32,7 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Use the official Chain Bridge to securely transfer your Bitcoin (BTC) to the Merlin Chain.',
+  'Use the official Chain Bridge to securely transfer your Ethereum (ETH) to the Base Chain.',
   'Choose the liquidity pools you wish to participate in and deposit your assets.',
   'Engage in farming activities to earn rewards. Once you have accumulated enough, claim your profits.',
 ];
@@ -57,7 +57,7 @@ export const insights = [
     imgUrl: '/planet-06.png',
     title: 'Introducing — AraraSwap',
     subtitle:
-        'Introducing AraraSwap, the cutting-edge Decentralized Exchange (DEX) on the Merlin Blockchain. As a state-of-the-art Automated Market Maker (AMM), AraraSwap is built on the Balancer V2 framework to become the leading liquidity hub for DeFi on Merlin.',
+        'Introducing AraraSwap, the cutting-edge Decentralized Exchange (DEX) on the Base Blockchain. As a state-of-the-art Automated Market Maker (AMM), AraraSwap is built on the Balancer V2 framework to become the leading liquidity hub for DeFi on Base.',
     link: 'https://medium.com/@AraraSwap/introducing-araraswap-c4756e28286a'
   }
 ];
