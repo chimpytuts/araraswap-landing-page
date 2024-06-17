@@ -21,7 +21,7 @@ const Footer = () => (
         <h4 className="font-bold md:text-[64px] text-[44px] text-white flex items-center gap-2">
           Earn with us!
         </h4>
-        <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#9562FF] rounded-[32px] gap-[12px]">
+        <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#4A90E2] rounded-[32px] gap-[12px]">
           <span className="font-normal text-[16px] text-white">
             Enter dapp
           </span>
